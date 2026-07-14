@@ -165,4 +165,4 @@ From these above models after hyperparameter optimization we selected these two 
 
 - This Project can be used in real-life by Users.
 
-Author - Hrisikesh Neogi
+Author - Tushar Sharma
